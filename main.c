@@ -10,7 +10,4 @@ int main()
 void hola(){
     printf("Hello world!\n");
     printf("Hello world!\n");
-    printf("Hello world!\n");
-    printf("Hello world!\n");
-    printf("Hello world!\n");
 }
