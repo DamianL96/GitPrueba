@@ -3,11 +3,14 @@
 
 int main()
 {
-    printf("Hello world!\n");
-    printf("Hello world!\n");
-    printf("Hello world!\n");
-    printf("Hello world!\n");
-    printf("Hello world!\n");
+    hola();
     return 0;
 }
 
+void hola(){
+    printf("Hello world!\n");
+    printf("Hello world!\n");
+    printf("Hello world!\n");
+    printf("Hello world!\n");
+    printf("Hello world!\n");
+}
